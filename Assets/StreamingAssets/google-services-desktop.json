@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75062737448",
+    "firebase_url": "https://fir-auth-study-9fed8-default-rtdb.firebaseio.com",
+    "project_id": "fir-auth-study-9fed8",
+    "storage_bucket": "fir-auth-study-9fed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75062737448:android:68b21b6e57457d1512531d",
+        "android_client_info": {
+          "package_name": "com.AndongniGame.FirebaseAuthStudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75062737448-9p5kteepql963hnckvaef98urhq3s26h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2tJZ9OkskH0Grad2VL3KtRN6Kb_WVwaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75062737448-9p5kteepql963hnckvaef98urhq3s26h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
